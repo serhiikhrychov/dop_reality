@@ -2,4 +2,5 @@
 
 Project for Practical assignment of Augmented reality course
 
-Astroidal Helicoid
+Task N10 - Astroidal Helicoid
+ Hyperbolic Helicoid was made instead
